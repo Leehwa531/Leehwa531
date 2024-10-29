@@ -1,4 +1,8 @@
 ## 수정중..
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=[wakatime의 사용자계정])](https://wakatime.com/@jogilsang)
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 
 <!--
 **Leehwa531/Leehwa531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
