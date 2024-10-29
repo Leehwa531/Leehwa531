@@ -1,5 +1,5 @@
 ## 수정중..
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=[wakatime의 사용자계정])](https://wakatime.com/@jogilsang)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=[Leehwa531])](https://wakatime.com/@Leehwa531)
 
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
